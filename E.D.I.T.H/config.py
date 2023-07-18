@@ -1,0 +1,2 @@
+
+API_key="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"
