@@ -69,15 +69,13 @@ To get your OpenAI API key:
 
 Once you have your API key, assign it to the `API_key` variable in the project's configuration.
 
-![OpenAI site](https://drive.google.com/file/d/1zTim8ZEdmtuu9uakwsmqyPeVxJEGMxfo/view?usp=sharing "step-1")
+![Pic-2](pic-2.png)
+![Pic-3](pic-3.png)
+![Pic-3](pic-4.png)
+![Pic-3](pic-5.png)
+![Pic-3](pic-5-orginal.png)
 
-![OpenAI site](https://drive.google.com/file/d/1dbzSAmF1pOirzmfMOEFlMARhaeqbHMQh/view?usp=sharing "step-2")
 
-![OpenAI site](https://drive.google.com/file/d/1mpz0acK2xUJNaOdFxSCzH2PIHk8l7XRW/view?usp=sharing "step-3")
-
-![OpenAI site](https://drive.google.com/file/d/1EwrX0ZOMDLIsEa_BHh5MQLnT4snxOdxa/view?usp=sharing "step-4")
-
-![OpenAI site](https://drive.google.com/file/d/1RoiHekE56D6t1eKFtiodXsgJqE3V7dIW/view?usp=sharing "step-5")
 
 ### Running the Project
 
