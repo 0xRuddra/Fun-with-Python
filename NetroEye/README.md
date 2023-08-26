@@ -1,4 +1,4 @@
-# NetroEye: Network Scanner Project
+# NetroEye: Network Discovery Companion
 
 ![NetroEye Logo](netroeye_logo.png)
 
