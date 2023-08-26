@@ -61,9 +61,9 @@ Contributions to NetroEye are welcome and encouraged! If you have any bug fixes,
 
 Feel free to connect with me on social media:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/i-amruddra/)
-- Facebook: [Your Facebook Profile](https://www.facebook.com/profile.php?id=100013191316632)
+- LinkedIn: [ LinkedIn Profile](https://www.linkedin.com/in/i-amruddra/)
+- Facebook: [ Facebook Profile](https://www.facebook.com/profile.php?id=100013191316632)
 
-For any questions or support related to the project, you can also reach out to me via email at your@email.com.
+For any questions or support related to the project, you can also reach out to me via email at notify.ruddra.cse@gmail.com
 
 **Happy scanning with NetroEye!** 🕵️‍♀️🌐
