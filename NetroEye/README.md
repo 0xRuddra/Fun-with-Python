@@ -30,7 +30,7 @@ To run NetroEye successfully, ensure that you have the following prerequisites i
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/NetroEye.git
+   git clone https://github.com/0xRuddra/Fun-with-Python.git
    ```
 
 2. Navigate to the project directory.
@@ -53,4 +53,17 @@ To run NetroEye successfully, ensure that you have the following prerequisites i
 
 ## Video Link
 
-**Happy scanning with NetroEye!** 🌐🔍
+## Contributing
+
+Contributions to NetroEye are welcome and encouraged! If you have any bug fixes, enhancements, or new features to propose, please submit a pull request. Be sure to follow the project's code of conduct and guidelines.
+
+## Contact
+
+Feel free to connect with me on social media:
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/i-amruddra/)
+- Facebook: [Your Facebook Profile](https://www.facebook.com/profile.php?id=100013191316632)
+
+For any questions or support related to the project, you can also reach out to me via email at your@email.com.
+
+**Happy scanning with NetroEye!** 🕵️‍♀️🌐
