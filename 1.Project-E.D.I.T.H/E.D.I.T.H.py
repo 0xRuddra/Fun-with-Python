@@ -14,7 +14,7 @@ API_key=""
 #Add your api key here
 BD=False
 current_AI="edith"
-chat="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"
+chat=""
 speaker = win32com.client.Dispatch("SAPI.SpVoice")
 all_voices = speaker.GetVoices() # list all the english_voices
 
